@@ -1,1 +1,24 @@
-
+{
+"Title": "فیلترشکن جدید و پرقدرت 😎🔥",
+"Description": "سلام عزیزم خوبی؟ چون فیلترینگ قوی شد ما یه یدونه فیلترشکن قوی و پرسرعت تو کانال قرار دادیم ، اینستا و یوتیوب هم راحت میاره مخصوص همه اپراتورها ، بزن رو دکمه زیر تا از تلگرام دانلودش کنی 👇🏻",
+"Link": "tg://join?invite=HQWNEuAuAqBlYTI0",
+"ColorWave": "#FFEA00",
+"Color": "#FFEA00",
+"ColorWaveTwo": "#FFFF00",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "0118189993",
+"ShowTime": "3",
+"Button": " دریافت فیلترشکن جدید و پرسرعت ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
